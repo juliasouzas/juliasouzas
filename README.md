@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juliasouzas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- I’m interested in 
+-  I’m currently learning Java, Spring Boot, Banco de Dados Oracle e Angular.
 - 📫 How to reach me  : juliamaarquessouza@gmail.com
 
 <!---
