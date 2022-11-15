@@ -1,3 +1,4 @@
+
                                                                                                                                                                        
 
 Hello, Devs!
@@ -10,14 +11,17 @@ Hello, Devs!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width="50" height="50" />
           
-
-
+##
 
 - 📫 How to reach me  : 
 
+<div>
 <a href = "mailto:juliamaarquessouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/juliamarquessouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
+
+##
 
 <div>
 <a href="https://github.com/juliasouzas">
