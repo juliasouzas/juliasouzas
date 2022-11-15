@@ -2,7 +2,11 @@
 Hello, Devs!
 
 
--  I’m currently learning Java, Spring Boot, Banco de Dados Oracle e Angular.
+-  I’m currently learning: 
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 - 📫 How to reach me  : juliamaarquessouza@gmail.com
 
 <!---
