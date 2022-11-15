@@ -11,8 +11,6 @@ Hello, Devs!
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width="50" height="50" />
           
 
-![octocat-1668550856296](https://user-images.githubusercontent.com/107822475/202038735-7d34e8b4-4ddc-42ea-a564-b0b29837baef.png)
-
 
 
 - 📫 How to reach me  : 
