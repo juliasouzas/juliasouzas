@@ -1,7 +1,11 @@
 
-                                                                                                                                                                       
+<img width="240px" align="right" src="https://i.ibb.co/zN2g5nq/share-temp-pose-A.png" alt="share-temp-pose-A" border="0"></a>
 
+                                                                                                                                                                      
 Hello, Devs!
+
+##
+
 
 
 -  I’m currently learning: 
@@ -12,6 +16,7 @@ Hello, Devs!
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width="50" height="50" />
           
 ##
+
 
 - 📫 How to reach me  : 
 
