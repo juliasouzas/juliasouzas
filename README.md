@@ -8,7 +8,7 @@ Hello, Devs!
 
 
 
--  I’m currently learning: 
+-  Atualmente estou aprendendo:
             
 
 
@@ -18,7 +18,7 @@ Hello, Devs!
 ##
 
 
-- 📫 How to reach me  : 
+- 📫 Como você pode me encontrar:
 
 <div>
 <a href = "mailto:juliamaarquessouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
